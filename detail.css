@@ -1,0 +1,145 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+.medsos{
+	padding: 5px 0;
+	background-clip:#000000; 
+	background-color:#E0E0E0;
+}
+.medsos ul li{
+	display: inline-block;
+	color: #fff;
+	margin-right: 10px;
+}
+.container{
+	width: 100%;
+	margin: 0px auto;
+
+}
+.container:after{
+	content:'';
+	display: block;
+	clear: both;
+}
+.logo{
+	padding: 15px;
+	margin-top:40px 0; 
+	height: 0px;
+}
+header h1{
+	float: left;
+	padding:5px 0;
+	margin-left:70px;
+	font-size: 40px;
+	color:#000000;
+}
+header ul{
+	float: right;
+	padding: 0px;
+	margin-right:30px;
+
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	padding: 10px 10px;
+	display: inline-block;
+}
+header ul li a:hover{
+	background-color: #E0E0E0;
+	color: #fff;
+	border-radius: 15px;
+}
+.nav{
+	padding: 20px 0;
+	border: 1px  #E0E0E0;;
+	text-align: center;
+	background-color:  #E0E0E0;
+}
+.container .image{
+	padding: 40px;
+
+}
+.image img{
+	display: block;
+	width: 400px;
+	float: left;
+	padding-left: 20px 0;
+	box-shadow: 2px 2px 3px  #E0E0E0;
+}
+.detail h4{
+	font-size: 30px;
+	margin: 20px;
+	position: relative;
+	left: 50px;
+	padding:20px;
+	color: #e9401f;
+	margin-bottom: 5px;
+}
+h6{
+	position: relative;
+	left: 50px;
+	margin-bottom: 10px;
+}
+ .th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  position: relative;
+  left: 50px;
+}
+.detail tr th:hover
+{
+    background-color: black;
+    transition-duration: 700ms;
+}
+.37
+{
+    background-color: crimson;
+}
+.detail p{
+	margin-bottom: 20px;
+	position: relative;
+	left: 50px;
+}
+.detail s{
+	left: 50px;
+	position: relative;
+	padding-top: 10px;
+}
+.detail h4{
+	left: 50px;
+	position: relative;
+	margin-bottom: 0px;
+}
+.tombol
+{
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 10px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    position: relative;
+    left: 500px
+}
+ 
+.tombol:hover
+{
+    background-color: black;
+    transition-duration: 700ms;
+}
+.tombol-beli
+{
+    background-color: crimson;
+}

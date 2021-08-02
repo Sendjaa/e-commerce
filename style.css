@@ -1,0 +1,15 @@
+.wrap{
+	background:blue;
+	width: 900px
+	margin:10px auto;
+}
+/*bagian header*/
+.wrap .header{
+	background: green;
+	/*height:50px;*/
+	padding-right: 2px 10px;
+}
+/*header akhir*/
+.wrap .menu{
+	background: yellow;
+}
